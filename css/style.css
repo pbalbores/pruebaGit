@@ -2,3 +2,7 @@ body {
     background-color: gray;
     margin: 20px;
 }
+
+a {
+    color: red;
+}
